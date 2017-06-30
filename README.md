@@ -15,5 +15,4 @@ Axis labels
 Toggleable series (click on the legend to toggle series)
 
 
-
-https://github.com/shyambhiogade/ReusableLineChart/blob/master/Image.png?raw=true
+![alt text](https://github.com/shyambhiogade/ReusableLineChart/blob/master/Image.png?raw=true)
